@@ -5,6 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Run this project on:
 https://amangarg0303.github.io/blog-ui-react/
 
+Refresh page 2-3 times if the page shows nothing.
 
 ## Available Scripts
 
