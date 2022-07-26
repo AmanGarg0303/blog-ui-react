@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Run this project on:
+https://amangarg0303.github.io/blog-ui-react/
+
+
 ## Available Scripts
 
 In the project directory, you can run:
